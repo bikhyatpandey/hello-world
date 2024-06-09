@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>For New user Registration for Bikhyat DevOps Learning using ansible and jenkins</h1>
+    <h1>For the New user Registration for Bikhyat DevOps Learning using ansible and jenkins</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
